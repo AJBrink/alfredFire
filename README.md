@@ -7,4 +7,6 @@ This is a final project to help a non-profit orginization. For our project we ch
 
 " I think we should take the "members only" page and add a link to their facebook on the contact page. Also the pictures and videos page can be added as a slideshow to the home page. They have a lot of pages but minimal content per page so I think doing this to some pages would help their website with confussion during navigation.
 
-If you guys find any more pages like this that can be sort of combined but not too flooded with ontact please post here so we can figure out which pages to make before we assign the pages per person. - Alex Brink "
+If you guys find any more pages like this that can be sort of combined but not too flooded with ontact please post here so we can figure out which pages to make before we assign the pages per person. - Alex Brink 
+
+** also I found their iCould link which can be found here https://www.icloud.com/photostream/#AC5oqs3q9Pcyp  is has a lot of pictures"
