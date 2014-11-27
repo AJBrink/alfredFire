@@ -1,0 +1,131 @@
+/* Styles for Body */
+
+* {
+	padding: 0xp;
+	margin: 0px;
+}
+
+body {
+	padding: 0xp;
+	margin: 0px;
+}
+
+/* Styles For Container */
+#container {
+	margin: 0px auto;
+	width: 1400px;
+	background: #125656;
+	border: 1px solid black;
+}
+
+/* Styles For Header */
+table {
+	padding: 0px;
+	margin: 0px auto;
+	text-align: center;
+
+}
+
+/* Styles For Nav*/
+
+nav	{
+	width: 1208px;
+	height: 50px; 
+	margin: 0px auto; 
+	z-index: 99; 
+	background-color: #FF0000;
+}
+	
+.navbar	{
+	height: 50px;
+    padding: 0;
+	position: absolute;
+	margin: 0;
+}
+	
+.navbar li 	{
+	height: 50px;
+	width: 200px;
+	float: left;
+	text-align: center;
+	list-style: none;
+	font: normal bold 12px/1.2em Arial, Verdana, Helvetica;  
+	padding: 0;
+	margin: 0;
+	background-color: #FF0000;
+	transition: all 1s ease;
+ }
+						
+.navbar a	{			
+	padding: 18px 0;
+	border-left: 1px solid #DE0000;
+	border-right: 1px solid #DE0000;
+	text-decoration: none; 
+	color: white;
+	display: block;
+}
+
+.navbar li:hover, a:hover {
+	background-color: #DE0000;
+	transition: all 1s ease;
+}
+
+ .navbar li ul 	{
+		display: none;
+		height: auto;									
+		margin: 0;
+		padding: 0;		
+}				
+
+.navbar li:hover ul 	{
+                        display: block;
+}
+
+.navbar li ul li {
+	background-color: #FF0000;
+} 
+
+.navbar li ul li a 	{
+	border-left: 1px solid #DE0000; 
+	border-right: 1px solid #DE0000; 
+	border-top: 1px solid #DE0000; 
+	border-bottom: 1px solid #DE0000; 
+}
+				
+.navbar li ul li a:hover	{
+	background-color: #DE0000;
+	transition: all 1s ease;
+}
+
+
+
+/* Styles For Content*/
+
+#content {
+	width: 1208px;
+	margin: 0px auto;
+	padding: 10px;
+}
+
+#content p {
+	padding: 10px;
+}
+
+/* Styles For Footer */
+
+#footer {
+	clear:both;
+	width:100%;
+	text-align: center;
+	margin: 20px 0px 0px 0px;
+}
+
+/* Styles for Heading Tags */
+
+h1 {
+	font-size: 38px;
+	color: red;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+	text-shadow: 3px 3px black;
+	text-align: center;
+}
